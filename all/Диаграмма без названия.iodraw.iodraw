@@ -34,7 +34,7 @@
           <mxGeometry x="-210" y="460" width="460" height="420" as="geometry" />
         </mxCell>
         <UserObject label="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;" link="https://www.iodraw.com/diagram" id="39150e848f15840c-1">
-          <mxCell style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="FG0yOXp3VS46t_kObi5W-36" vertex="1">
+          <mxCell style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;fillColor=#D4D4D4;" parent="FG0yOXp3VS46t_kObi5W-36" vertex="1">
             <mxGeometry width="459.99999999999994" height="396.6666666666667" as="geometry" />
           </mxCell>
         </UserObject>
