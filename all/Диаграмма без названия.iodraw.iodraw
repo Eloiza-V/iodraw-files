@@ -80,7 +80,7 @@
         <mxCell id="FG0yOXp3VS46t_kObi5W-57" value="&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Модуль работы с &quot;корзиной&quot;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="FG0yOXp3VS46t_kObi5W-54" vertex="1">
           <mxGeometry x="300" y="60" width="260" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FG0yOXp3VS46t_kObi5W-60" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Административные модули&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=40;" parent="1" vertex="1">
+        <mxCell id="FG0yOXp3VS46t_kObi5W-60" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Административные модули&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=40;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="410" y="510" width="580" height="160" as="geometry" />
         </mxCell>
         <mxCell id="FG0yOXp3VS46t_kObi5W-61" value="&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Модуль управления клиентами (добавление новых аптек/ мед.центров)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="FG0yOXp3VS46t_kObi5W-60" vertex="1">
