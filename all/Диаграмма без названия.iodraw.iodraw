@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 OPR/122.0.0.0 (Edition Yx 05)" version="24.7.17">
   <diagram name="Page-1" id="5f0bae14-7c28-e335-631c-24af17079c00">
-    <mxGraphModel dx="2126" dy="2076" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3676" dy="2088" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -45,10 +45,10 @@
           <mxGeometry x="34.5" y="19.996666666666666" width="390.99999999999994" height="46.666666666666664" as="geometry" />
         </mxCell>
         <mxCell id="FG0yOXp3VS46t_kObi5W-23" value="&lt;font size=&quot;3&quot;&gt;Кабинет администратора&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="FG0yOXp3VS46t_kObi5W-36" vertex="1">
-          <mxGeometry x="34.5" y="140.00000000000003" width="390.99999999999994" height="58.333333333333336" as="geometry" />
+          <mxGeometry x="34.5" y="150.00000000000003" width="390.99999999999994" height="58.333333333333336" as="geometry" />
         </mxCell>
         <mxCell id="FG0yOXp3VS46t_kObi5W-24" value="&lt;font size=&quot;3&quot;&gt;Страница для аптек/ мед. учреждений&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="FG0yOXp3VS46t_kObi5W-36" vertex="1">
-          <mxGeometry x="34.5" y="198.33" width="390.99999999999994" height="58.333333333333336" as="geometry" />
+          <mxGeometry x="34.5" y="220" width="390.99999999999994" height="58.333333333333336" as="geometry" />
         </mxCell>
         <mxCell id="FG0yOXp3VS46t_kObi5W-27" value="" style="group" parent="FG0yOXp3VS46t_kObi5W-36" vertex="1" connectable="0">
           <mxGeometry x="149.5" y="291.6666666666667" width="276" height="93.33333333333333" as="geometry" />
