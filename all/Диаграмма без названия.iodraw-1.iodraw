@@ -57,7 +57,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xQeUNIyIvdHJ2bzJWHdj-12" value="победил игроу" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="xQeUNIyIvdHJ2bzJWHdj-12" value="Победил игрок" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="40" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xQeUNIyIvdHJ2bzJWHdj-13" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
