@@ -86,7 +86,7 @@
             <mxPoint x="320" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xQeUNIyIvdHJ2bzJWHdj-18" value="Label" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="xQeUNIyIvdHJ2bzJWHdj-17">
+        <mxCell id="xQeUNIyIvdHJ2bzJWHdj-18" value="Sx=Sy" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="xQeUNIyIvdHJ2bzJWHdj-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
