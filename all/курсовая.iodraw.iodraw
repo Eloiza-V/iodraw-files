@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="iEhmkpX7uJ0E2qham0ob-1" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;startSize=30;" vertex="1" parent="1">
+        <mxCell id="iEhmkpX7uJ0E2qham0ob-1" value="Регистр накопления&amp;nbsp;&lt;div&gt;&quot;Остатки товаров&quot;&lt;/div&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=30;" vertex="1" parent="1">
           <mxGeometry x="310" y="220" width="200" height="200" as="geometry" />
         </mxCell>
       </root>
