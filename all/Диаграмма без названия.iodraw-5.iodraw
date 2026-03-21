@@ -657,7 +657,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="cgwQTC_bde3aI1IYAhmY-105" value="User_favorite" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="1030" width="280" height="180" as="geometry" />
+          <mxGeometry x="10" y="310" width="280" height="180" as="geometry" />
         </mxCell>
         <mxCell id="cgwQTC_bde3aI1IYAhmY-106" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="cgwQTC_bde3aI1IYAhmY-105">
           <mxGeometry y="30" width="280" height="30" as="geometry" />
@@ -884,7 +884,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="cgwQTC_bde3aI1IYAhmY-228" value="Review" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="640" width="290" height="240" as="geometry" />
+          <mxGeometry x="450" y="760" width="290" height="240" as="geometry" />
         </mxCell>
         <mxCell id="cgwQTC_bde3aI1IYAhmY-229" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="cgwQTC_bde3aI1IYAhmY-228">
           <mxGeometry y="30" width="290" height="30" as="geometry" />
